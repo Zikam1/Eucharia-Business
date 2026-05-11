@@ -36,7 +36,7 @@
         <div>
           <h3 class="text-lg font-semibold text-slate-900 mb-4">Contact</h3>
           <div class="space-y-3 text-slate-600 text-sm leading-6">
-            <p>Email: hello@eucharianwaichi.com</p>
+            <p>Email: nodullm@yahoo.com</p>
             <p>Available for research, consulting, speaking, and capacity development.</p>
             <p class="text-emerald-400 font-medium">Availabilty 24/7</p>
           </div>
