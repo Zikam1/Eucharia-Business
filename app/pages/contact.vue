@@ -16,7 +16,7 @@
           <div class="mt-8 space-y-4">
             <div class="rounded-2xl bg-white border border-slate-200 p-5 shadow-sm">
               <p class="text-sm text-slate-500">Email</p>
-              <p class="mt-1 font-semibold text-slate-900">hello@eucharianwaichi.com</p>
+              <p class="mt-1 font-semibold text-slate-900">nodullm@yahoo.com</p>
             </div>
 
             <div class="rounded-2xl bg-white border border-slate-200 p-5 shadow-sm">
